@@ -4,4 +4,4 @@ I'm an iOS developer based in Barcelona ☀️ and I'm passionate about Apple's 
 
 I like to get involved in the community that I once participated at NSSpain with a [lightning talk](https://vimeo.com/showcase/9831667/video/751538676) 🤓 and hopefully more to come!
 
-Feel free to reach out 🙂. Let's connect and discuss all things iOS development!
+Feel free to reach out 🙂. Let's connect and discuss about iOS development!

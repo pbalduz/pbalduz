@@ -1,7 +1,7 @@
 ### Hi there, I'm Pablo 👋
 
-I'm an iOS developer based in Barcelona ☀️ and I'm passionate about Apple's ecosystem development with a strong background in mobile apps 📱. I enjoy every step of the process, either implementing refined and complex layouts, an elegant and well designed architecture or even writing some tests ✅!
+I'm an iOS dev based in Barcelona ☀️ passionate about building stuff for Apple's ecosystem. I also like to keep it active so whenever I'm not coding you will find me on the court 🏀 or at the gym 🏋🏽
 
-I like to get involved in the community that I once participated at NSSpain with a [lightning talk](https://vimeo.com/showcase/9831667/video/751538676) 🤓 and hopefully more to come!
+I enjoy attending tech conferences and once had the chance to participate in NSSpain with a [lightning talk](https://vimeo.com/showcase/9831667/video/751538676). Hopefully there are more to come!
 
-Feel free to reach out 🙂. Let's connect and discuss about iOS development!
+Also I'm always learning and experimenting so if you have something cool to share let's connect and create something awesome together! 😎
